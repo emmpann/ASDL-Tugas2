@@ -1,3 +1,4 @@
+Program ini dibuat untuk memenuhi tugas dalam mata kuliah Algoritma dan Struktur Data Lanjutan materi linked list. Pengerjaan dilakukan selama 2 minggu yang dilakukan secara bertahap dari pembuatan program sampai mempresentasikan lewat video. dilakukan oleh seluruh anggota kelompok.
 ## KELOMPOK 6
 1. Kiagus Muhammad Efan Fitriyan (09021282126039)
 2. Putri Angel Saraswati (09021282126040)
