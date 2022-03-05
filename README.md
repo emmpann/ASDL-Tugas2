@@ -6,5 +6,5 @@
 5. Anharul Zikri (09021282126034)
 
 ## CARA KERJA PROGRAM
-App.java merupakan program utama, jika anda ingin menjalankan program maka bukalah class App
-DoubleLinkedList.java merupakan class Double linked list yang dibuat secara manual (tanpa library)
+- App.java merupakan program utama, jika anda ingin menjalankan program maka bukalah class App
+- DoubleLinkedList.java merupakan class Double linked list yang dibuat secara manual (tanpa library)
