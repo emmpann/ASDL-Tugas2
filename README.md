@@ -7,5 +7,6 @@ Program ini dibuat untuk memenuhi tugas dalam mata kuliah Algoritma dan Struktur
 5. Anharul Zikri (09021282126034)
 
 ## CARA KERJA PROGRAM
+- Tugas 2a dan 2b langsung diimplementasikan menjadi menu manual dan pustaka
 - App.java merupakan program utama, jika anda ingin menjalankan program maka bukalah class App
 - DoubleLinkedList.java merupakan class Double linked list yang dibuat secara manual (tanpa library)
